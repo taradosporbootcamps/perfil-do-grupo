@@ -20,7 +20,7 @@
 
 - [Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Ferramentas utilizadas e linguagem](#ferramentas-utilizadas-e-linguagem-de-marcação)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
@@ -57,11 +57,13 @@ O site consiste em ter a lista e perfil de todos os colaboradores do projeto tar
 
 ###
 
-## Ferramentas utilizadas
+## Ferramentas utilizadas e linguagem de marcação
 
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />  
 
 ###
 
