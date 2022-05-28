@@ -1,16 +1,7 @@
 ![img](https://i.imgur.com/E9UkunM.png)
-
-<p align="center">
-<div> 
   <img src="https://img.shields.io/static/v1?label=html&message=MARCAÇÃO&color=blue&style=for-the-badge&logo=HTML"/>
   <img src="https://img.shields.io/static/v1?label=css&message=estilização&color=red&style=for-the-badge&logo=CSS"/>
-  
-</div>
 <h1 align="center"> Perfil do Grupo </h1>
-
-<hr>
-
-
 
 ### Tópicos 
 
