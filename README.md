@@ -1,6 +1,6 @@
-![img](https://i.imgur.com/E9UkunM.png)
-  <img src="https://img.shields.io/static/v1?label=html&message=MARCAÇÃO&color=blue&style=for-the-badge&logo=HTML"/>
-  <img src="https://img.shields.io/static/v1?label=css&message=estilização&color=red&style=for-the-badge&logo=CSS"/>
+<img src="https://img.shields.io/badge/HTML-MARCA%C3%87%C3%83O-blue"/>
+<img src="https://img.shields.io/badge/CSS-MARCA%C3%87%C3%83O-red"/>
+  
 <h1 align="center"> Perfil do Grupo </h1>
 
 ### Tópicos 
@@ -69,14 +69,21 @@ Após clonar o projeto, você pode abrir com o `VS Code`. Para isso, se tiver a 
 - Procure o local onde o projeto está clonado e abra o `Git bash`,`Terminal do windowns ou Linux` ou `CMD` de o comando `code .` 
 - Por fim clique em `ENTER`.
 
+- Criem uma `branch` com o nome de vocês.
+- Criem `Comites` de acordo com o que estiverem fazendo. Exemplo: `git commit -u "atualizando a imagem da linha tal"`.
+
+- Para quem tem duvidas sobre o git, acessem esse repositório com dicas simples para ajudar no desenvolvimento do projeto. Cliquem em [AJUDA GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+
 Criem um projeto que tenha uma estrutura `HTML` e `CSS` organizado e responsivo.
 Procurem saber sobre code splice isso vai ajudar a organizar o código e tornar o código campeão 🏆 
+
+
 
 ## Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/83436068?v=4" width=115><br><sub>Márcio Gomes</sub>](https://github.com/marcio-sgomes) |  [<img src="https://avatars.githubusercontent.com/u/97966218?v=4" width=115><br><sub>Levi</sub>](https://github.com/levigtri) | [<img src="https://avatars.githubusercontent.com/u/76081373?v=4" width=115><br><sub>Tamara Viera</sub>](https://github.com/tamaraafvieira/) | [<img src="https://avatars.githubusercontent.com/u/89159427?v=4" width=115><br><sub>Tawara Martins</sub>](https://github.com/tawaramartins) |
 | :---: | :---: | :---: | :---:
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> |<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  |<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  |<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  |    
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
+<a href="https://www.linkedin.com/in/marciosgomes2781990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/levi-gomes-64684522b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/tamara-vieira-38ba2715a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/tawaramartins/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   |<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   |
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> |<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> |
