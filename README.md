@@ -1,6 +1,6 @@
-![img](https://i.imgur.com/E9UkunM.png)
-  <img src="https://img.shields.io/static/v1?label=html&message=MARCAÇÃO&color=blue&style=for-the-badge&logo=HTML"/>
-  <img src="https://img.shields.io/static/v1?label=css&message=estilização&color=red&style=for-the-badge&logo=CSS"/>
+<img src="https://img.shields.io/badge/HTML-MARCA%C3%87%C3%83O-blue"/>
+<img src="https://img.shields.io/badge/CSS-MARCA%C3%87%C3%83O-red"/>
+  
 <h1 align="center"> Perfil do Grupo </h1>
 
 ### Tópicos 
