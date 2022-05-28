@@ -1,5 +1,8 @@
+![img](https://thumbs.dreamstime.com/b/programador-louco-17296778.jpg)
+
 <img src="https://img.shields.io/badge/HTML-MARCA%C3%87%C3%83O-blue"/>
 <img src="https://img.shields.io/badge/CSS-MARCA%C3%87%C3%83O-red"/>
+
   
 <h1 align="center"> Perfil do Grupo </h1>
 
