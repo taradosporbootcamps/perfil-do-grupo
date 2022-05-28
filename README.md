@@ -1,11 +1,11 @@
 ![img](https://i.imgur.com/E9UkunM.png)
 
 <p align="center">
+<div> 
   <img src="https://img.shields.io/static/v1?label=html&message=MARCAÇÃO&color=blue&style=for-the-badge&logo=HTML"/>
-
-  <p align="center">
   <img src="https://img.shields.io/static/v1?label=css&message=estilização&color=red&style=for-the-badge&logo=CSS"/>
-
+  
+</div>
 <h1 align="center"> Perfil do Grupo </h1>
 
 <hr>
@@ -59,11 +59,11 @@ O site consiste em ter a lista e perfil de todos os colaboradores do projeto tar
 
 ## Ferramentas utilizadas e linguagem de marcação
 
-<a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
+<a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="70" height="70"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="70" height="70"/> </a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/VSCODE" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="70" height="70"/> </a> 
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />  
+ 
 
 ###
 
@@ -76,7 +76,7 @@ Você pode clona [acessar o código fonte do projeto](https://github.com/tarados
 Após clonar o projeto, você pode abrir com o `VS Code`. Para isso, se tiver a extenssão `Go Live` é só clicar nela que vai abrir o projeto :
 
 - Procure o local onde o projeto está clonado e abra o `Git bash`,`Terminal do windowns ou Linux` ou `CMD` de o comando `code .` 
-- Por fim clique em `OK`.
+- Por fim clique em `ENTER`.
 
 Criem um projeto que tenha uma estrutura `HTML` e `CSS` organizado e responsivo.
 Procurem saber sobre code splice isso vai ajudar a organizar o código e tornar o código campeão 🏆 
