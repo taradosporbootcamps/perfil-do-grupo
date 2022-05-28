@@ -2,6 +2,10 @@
 
 <img src="https://img.shields.io/badge/HTML-MARCA%C3%87%C3%83O-blue"/>
 <img src="https://img.shields.io/badge/CSS-MARCA%C3%87%C3%83O-red"/>
+<img src="https://img.shields.io/badge/VSCODE-IDE-blue"/>
+<img src="https://img.shields.io/badge/TPBC-GRUPO-blue"/>
+<img src="https://img.shields.io/badge/EM%20PROGRESSO-PROJETO-blue"/>
+
 
   
 <h1 align="center"> Perfil do Grupo </h1>
