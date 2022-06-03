@@ -81,6 +81,11 @@ Após clonar o projeto, você pode abrir com o `VS Code`. Para isso, se tiver a 
 
 - Para quem tem duvidas sobre o git, acessem esse repositório com dicas simples para ajudar no desenvolvimento do projeto. Cliquem em [AJUDA GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
+## Regra
+- Escolhendo uma tarefa, tera que ir até o fim com ela e logo então, poderá pegar uma outra.
+- Todos os `Merge` e `pull request`, teram que ser analizado e aprovados por todos. Só assim poderá ser aceitos as alterações para atualizações.
+- Não levem duvidas! Perguntem sempre!
+
 Criem um projeto que tenha uma estrutura `HTML` e `CSS` organizado e responsivo.
 Procurem saber sobre code splice isso vai ajudar a organizar o código e tornar o código campeão 🏆 
 
